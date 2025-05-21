@@ -19,11 +19,9 @@ Open the project folder:
 ```bash
 cd website
 ```
----
-
 Open **index.html** in your browser to view the website.
----
 
+---
 ### **Contributing**
 
 We welcome contributions! To contribute:
@@ -70,7 +68,5 @@ git push origin main
 ```
 ---
 
-```js
-Result:
+### **Result:**
 Once you push it to GitHub, your README.md will appear with proper formatting, like headers, bullet points, and code blocks.
-```
