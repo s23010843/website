@@ -1,4 +1,4 @@
-# TwitterX Project
+# TwitterX
 
 This is a new project named **TwitterX** – a platform for sharing short messages and connecting with people in real time.
 
@@ -22,15 +22,18 @@ cd website
 Open **index.html** in your browser to view the website.
 
 ---
-### **Contributing**
+## Contributing
 
 We welcome contributions! To contribute:
 
-**Fork the repository.**
+### **Fork the repository.**
 
 Create a new branch for your feature (git checkout -b feature-name).
+```bash
+git checkout -b feature-name
+```
 
-**Make your changes.**
+### **Make your changes.**
 
 Commit the changes (git commit -am 'Add feature').
 ```bash
@@ -45,18 +48,18 @@ Open a pull request.
 
 ---
 
-### **License**
+## License
 This project is licensed under the MIT License.
 
 ---
-### **Explanation of Markdown:**
+## Explanation of Markdown:
 1. `#` and `##` are used to create headers (e.g., `#` for the main title and `##` for subsections).
 2. `-` is used for bullet points.
 3. Code blocks are wrapped in triple backticks (```) for commands or code snippets.
 4. **Bold** text is done with `**`.
 ---
 
-### How to Use:
+## How to Use:
 1. **Create a `README.md` file** in your project folder.
 2. **Copy and paste** the above content into the file.
 3. **Add, commit, and push** it to GitHub:
@@ -68,5 +71,5 @@ git push origin main
 ```
 ---
 
-### **Result:**
+## Result:
 Once you push it to GitHub, your README.md will appear with proper formatting, like headers, bullet points, and code blocks.
